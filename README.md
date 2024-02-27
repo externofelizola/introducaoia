@@ -7,3 +7,4 @@ OS FORKS OU RAMIFICAÇÕES =====> ACABAM MANTENDO LIGAÇÃO COM O PROJETO ORIGIN
 https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks#forking-a-repository-versus-duplicating-a-repository
 
 senão conseguir ler a versão em ingLês use o tradutor e leia várias vezes...
+
